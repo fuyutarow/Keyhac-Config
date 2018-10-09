@@ -1,0 +1,16 @@
+__pycache__/
+_config.py
+dict/
+doc/
+extension/
+fakeymacs/
+keyhac.exe
+keyhac.ini
+lib/
+library.zip
+license/
+myconfig.py
+python36.dll
+readme_en.txt
+readme_ja.txt
+theme/
