@@ -1,5 +1,7 @@
+from keyhac import shellExecute
+
+
 def launch_ubuntu():
-    #shellExecute(None, "ubuntu.exe", "", "")
     shellExecute(None, "ubuntu1804.exe", "", "")
 
 
