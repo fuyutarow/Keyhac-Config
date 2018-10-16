@@ -8,6 +8,7 @@ from config_d import (
     # Vi,
     alias_launch_app,
     alt_英かな,
+    LShift2Escape,
 )
 import config_d
 print(dir(config_d))
@@ -16,6 +17,7 @@ print(dir(config_d))
 def configure(keymap):
     emacs_config(keymap)
     sands(keymap)
+    LShift2Escape(keymap)
     alt_英かな(keymap)
     alias_launch_app(keymap)
     #vi = Vi(keymap)
