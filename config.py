@@ -29,4 +29,4 @@ def configure(keymap):
         keymap_global[any + 'User0-h'] = any + 'Left'
         keymap_global[any + 'User0-j'] = any + 'Down'
         keymap_global[any + 'User0-k'] = any + 'Up'
-        keymap_global[any + 'User0-l'] = any + 'Righ
+        keymap_global[any + 'User0-l'] = any + 'Righ'
